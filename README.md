@@ -1,5 +1,7 @@
 # ¡Hola, soy Mónica! 👩‍💻✨
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/mcrojas/))              [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/mrojas17)
+
 # 🚀 Full Stack Developer | Especializado en Frontend  
 🌱 Ingeniera Agrónoma | Apasionada por la tecnología y la innovación
 
@@ -19,11 +21,7 @@ Estoy en constante **aprendizaje** y siempre en la búsqueda de **nuevos desafí
 
 ### 📩 ¡Estoy abierto/a a oportunidades y colaboraciones!
 Si deseas conversar sobre un proyecto, una oportunidad laboral o simplemente compartir conocimientos, no dudes en contactarme.
-
-📩 mcrojasr17@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/mcrojas/)
-- [GitHub](https://github.com/mrojas17)
-
+-  mcrojasr17@gmail.com
 
 
 ¡Gracias por visitar mi perfil! 😄
