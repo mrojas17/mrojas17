@@ -1,6 +1,6 @@
 # ¡Hola, soy Mónica! 👩‍💻✨
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/mcrojas/))              [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/mrojas17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/mcrojas/)              [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/mrojas17)
 
 # 🚀 Full Stack Developer | Especializado en Frontend  
 🌱 Ingeniera Agrónoma | Apasionada por la tecnología y la innovación
