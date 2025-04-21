@@ -20,6 +20,7 @@ Estoy en constante **aprendizaje** y siempre en la búsqueda de **nuevos desafí
 ### 📩 ¡Estoy abierto/a a oportunidades y colaboraciones!
 Si deseas conversar sobre un proyecto, una oportunidad laboral o simplemente compartir conocimientos, no dudes en contactarme.
 
+📩 mcrojasr17@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/mcrojas/)
 - [GitHub](https://github.com/mrojas17)
 
