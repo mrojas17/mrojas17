@@ -19,7 +19,7 @@ Estoy en constante **aprendizaje** y siempre en la búsqueda de **nuevos desafí
 - **Testing**: Postman
 - **Version Control**: Git, GitHub
 
-### 📩 ¡Estoy abierto/a a oportunidades y colaboraciones!
+### 📩 ¡Estoy abierta a oportunidades y colaboraciones!
 Si deseas conversar sobre un proyecto, una oportunidad laboral o simplemente compartir conocimientos, no dudes en contactarme.
 -  mcrojasr17@gmail.com
 
